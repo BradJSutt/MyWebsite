@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <h1>Bradsuttons.com is under construction</h1>
-    </head>
-    <body>
-    </body>
-</html>
