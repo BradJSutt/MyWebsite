@@ -11,6 +11,12 @@ header {
     background-color: #388087;
     padding: 10px 0;
 }
+h6 {
+    background-color: #388087;
+    padding: 10px 0;
+    font-size: large;
+    font-family: 'Times New Roman', serif;
+}
 
 nav ul {
     list-style: none;
@@ -45,4 +51,9 @@ footer {
     padding: 10px 0;
     background-color: #6FB3B8;
     color: #F6F6F2;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
