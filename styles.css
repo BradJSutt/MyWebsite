@@ -2,8 +2,7 @@
 
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #3a3a3a;
+    font-family: 'Times New Roman', Times, serif;
     color: #388087;
 }
 
@@ -32,10 +31,7 @@ nav ul li a {
 
 main {
     text-align: center;
-}
-
-.landing {
-    background-color: #C2EDCE;
+    background-color: #3a3a3a;
 }
 
 footer {
@@ -46,8 +42,8 @@ footer {
 }
 
 img {
-    width: 100%;
-    max-width: 100%;
+    width: auto;
+    max-width: auto;
     height: auto;
 }
 
@@ -59,5 +55,17 @@ hr {
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
-border-color:rgb(112, 193, 207);
+    border-color:rgb(112, 193, 207);
 } 
+
+#rain img {
+    background: url(https://i.imgur.com/pzNSKdG.jpeg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+#blue1 img {
+    background: url(https://i.imgur.com/So1PBcz.jpeg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
