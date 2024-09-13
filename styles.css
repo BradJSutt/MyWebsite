@@ -69,3 +69,9 @@ hr {
     background-repeat: no-repeat;
     background-size: auto;
 }
+
+main section h1 div img {
+    width: auto;
+    max-width: auto;
+    height: auto;
+}
