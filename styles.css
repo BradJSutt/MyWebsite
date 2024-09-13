@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #F6F6F2;
+    background-color: #3a3a3a;
     color: #388087;
 }
 
@@ -11,19 +11,13 @@ header {
     background-color: #388087;
     padding: 10px 0;
 }
-h6 {
-    background-color: #388087;
-    padding: 10px 0;
-    font-size: large;
-    font-family: 'Times New Roman', serif;
-}
 
 nav ul {
     list-style: none;
-    padding: 0;
+    padding: 20px;
     display: flex;
     justify-content: center;
-    margin: 0;
+    margin: auto;
 }
 
 nav ul li {
@@ -37,12 +31,10 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
     text-align: center;
 }
 
 .landing {
-    padding: 50px 0;
     background-color: #C2EDCE;
 }
 
@@ -55,5 +47,17 @@ footer {
 
 img {
     width: 100%;
+    max-width: 100%;
     height: auto;
 }
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+border-color:rgb(112, 193, 207);
+} 
