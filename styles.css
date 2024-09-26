@@ -1,7 +1,7 @@
 /* styles.css */
 
 body {
-    margin: 0;
+    margin: 40px auto;
     font-family: 'Times New Roman', Times, serif;
     color: #388087;
 }
@@ -9,6 +9,10 @@ body {
 header {
     background-color: #388087;
     padding: 10px 0;
+}
+
+section {
+    display: block;
 }
 
 nav ul {
@@ -19,6 +23,9 @@ nav ul {
     margin: auto;
 }
 
+#portfolio {
+    margin: 40px auto;
+}
 nav ul li {
     margin: 0 15px;
 }
@@ -30,6 +37,7 @@ nav ul li a {
 }
 
 main {
+    
     text-align: center;
     background-color: #3a3a3a;
 }
